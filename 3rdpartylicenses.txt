@@ -392,6 +392,8 @@ MIT
 
 @angular/material/tabs
 
+@angular/material/sidenav
+
 @angular/material/toolbar
 
 @angular/material/menu
