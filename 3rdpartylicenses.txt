@@ -359,24 +359,24 @@ THE SOFTWARE.
 @angular/animations
 MIT
 
-@angular/material/core
-
 @angular/material/button
 
 @angular/material/icon
 
+@angular/material/card
+
 @angular/forms
 MIT
 
-@angular/material/form-field
-
-@angular/material/autocomplete
+@angular/material/core
 
 @angular/material/list
 
-@angular/material/card
+@angular/material/grid-list
 
 @angular/material/divider
+
+@angular/material/form-field
 
 @angular/material/select
 
@@ -397,6 +397,8 @@ MIT
 @angular/material/toolbar
 
 @angular/material/menu
+
+@angular/material/autocomplete
 
 angular-in-memory-web-api
 MIT
