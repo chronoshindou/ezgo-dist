@@ -406,8 +406,6 @@ MIT
 
 @angular/material/select
 
-@angular/material/checkbox
-
 @angular/material/table
 
 @angular/material/snack-bar
